@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>UUG Demo Site</title><link href="https://kylelaker.github.io/uug-travis-demo/" rel="alternate"></link><link href="https://kylelaker.github.io/uug-travis-demo/feeds/all.atom.xml" rel="self"></link><id>https://kylelaker.github.io/uug-travis-demo/</id><updated>2017-02-14T19:03:00-05:00</updated><entry><title>Post 1</title><link href="https://kylelaker.github.io/uug-travis-demo/post-1.html" rel="alternate"></link><published>2017-02-14T19:03:00-05:00</published><updated>2017-02-14T19:03:00-05:00</updated><author><name>Kyle Laker</name></author><id>tag:kylelaker.github.io,2017-02-14:/uug-travis-demo/post-1.html</id><summary type="html">&lt;p&gt;A test blog post for showing how cool travis is&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Test Post&lt;/h1&gt;
+&lt;p&gt;dsfhladshfjakshdlfhasdjfklsadhlfkgashdfhjkadsf&lt;/p&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;asdfja;lfas&lt;/p&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;asdfsa&lt;/p&gt;
+&lt;h2&gt;afd&lt;/h2&gt;
+&lt;p&gt;zdfsfkjdf;ladskl&lt;/p&gt;</content><category term="test"></category><category term="travis"></category></entry><entry><title>Post 2</title><link href="https://kylelaker.github.io/uug-travis-demo/post-2.html" rel="alternate"></link><published>2017-02-14T19:03:00-05:00</published><updated>2017-02-14T19:03:00-05:00</updated><author><name>Kyle Laker</name></author><id>tag:kylelaker.github.io,2017-02-14:/uug-travis-demo/post-2.html</id><summary type="html">&lt;p&gt;A second test blog post for showing how cool travis is&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Test Post&lt;/h1&gt;
+&lt;p&gt;asdfjasdjfkl;asdfjl;kakdfja;lskd&lt;/p&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;adsfasdfasdf&lt;/p&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;asdfsa&lt;/p&gt;
+&lt;h2&gt;afd&lt;/h2&gt;
+&lt;p&gt;zdfsfkjdf;ladskl&lt;/p&gt;</content><category term="test"></category><category term="travis"></category></entry></feed>
