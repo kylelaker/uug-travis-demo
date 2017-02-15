@@ -1,0 +1,14 @@
+language: python
+branches:
+  only:
+  - master
+install:
+- pip install pelican ghp-import python-dateutil gitpython Markdown
+script:
+- make publish github
+env:
+  global:
+  - GH_USER=kylelaker
+  - GH_REPO=uug-travis-demo
+  - GH_BRANCH=gh-pages
+  - secure: oCXY3O5eEJcMeR52H6X5fvHFpOIchTsNAYAbvq4XJPzreo14bk1V+URcYY1WFBJ3ufr0qrJTrzyPtS5Oek4bmnt0tnhaIB89N7UCE22kVbZ6/SWWs+asm7DYs13QUxf/X8h1vAjCcaUX9pnv1W7FWJnC+kFkP4FSwDNl82NnqNWI0YnpfJqgetfR9GwlXNkJNleQriHP7siRNtU4Ky9b8oKhpJRJgQ5oHK0+ytRoBfJaCzbvoWAwkh/p7tIc6XIDmOS0LUsOZPMrYOHsrB5kYDQhpSKPCSqItmPGMfwHL9btoYlszcfzqg3+Q4eptiwsa0dCRw2/L7bBu+RK72qMYnRJHhaQ+onMu4UmJSMPZNM9uanxhxo+ZMEhMSVn+J7qvV6b6fwJLXdXRy4EHSzM0ChLmcX7kwyHRYNftAP3/Q9qV+tOb+bSJPnS2RKCx8vlmR79ALfxMC6YR/aXFt5rC7mMy/m3OHrFndgUJZmcGpAguQyuchpGpWnB+Fezzkk0PS9y10U2uflGbo6XHSgTf89jrqrTy/5SmPkLLzJ4xdEWXSeev+ZuLFVYYC9JN19aaWOdD28bhdwG6itDGhynkTIirMNz7qAlOKJXhXNDmjecYknwkHXlL2KJDdcpZ1eG3p5xbxU8ms+GHyNIoKIzu/iNxGcp4dlObFOM2aj2lAg=
